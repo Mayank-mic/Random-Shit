@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyAC2hjVqsvc4EEwOE52ljgNQoLcYjxqS6E';
+const apiKey = '1234';
 const channelIds = {
     channel1: 'UCmGHPSbzO6sZtdwZZ8X_P_Q',
     channel2: 'UCtxD0x6AuNNqdXO9Wp5GHew'
